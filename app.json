@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "RN Guide",
-    "slug": "rn-complete-guide",
+    "name": "react-native_ecommerce",
+    "slug": "react-native_ecommerce",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
